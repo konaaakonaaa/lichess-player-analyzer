@@ -1,0 +1,5 @@
+Описание для поля "About" на GitHub:
+Terminal tool that streams a Lichess player's games from the cloud and prints stats: openings, win rates, time of day, rating graph.
+
+Topics (теги):
+chess lichess lichess-api python cli statistics data-analysis rich
