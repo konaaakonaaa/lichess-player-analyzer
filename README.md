@@ -18,7 +18,7 @@
 Нужен Python 3.9 или новее.
 
 ```bash
-git clone https://github.com/<ваш-ник>/lichess-player-analyzer.git
+git clone https://github.com/konaaakonaaa/lichess-player-analyzer.git
 cd lichess-player-analyzer
 python -m venv .venv
 source .venv/bin/activate      # Windows: .venv\Scripts\activate
